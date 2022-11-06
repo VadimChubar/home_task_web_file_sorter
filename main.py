@@ -77,4 +77,3 @@ if __name__ == '__main__':
     shutil.make_archive(f"backup {source}", "zip")
 
     print(f"Created new cleared folder '{output}', old folder '{source}' - archived")
-
